@@ -17,3 +17,11 @@ They don't sell your order flow data. Great order execution (speed & filled pric
 
 Advanced order types.
 
+Loads of tools:
+
+Research, scanners, news, fundamentals, paper trading API, backtesting, mobile app, built in charting and indicators.
+
+Worth paying fees for quality data and order execution.
+
+Can fire off loads of async requests in one go and continue (not wait). Handle each request as they come using callback functions to run much quicker.
+

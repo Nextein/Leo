@@ -1,1 +1,7 @@
 ib_insync
+pandas
+numpy
+tzdata
+bs4
+lxml
+ibapi
